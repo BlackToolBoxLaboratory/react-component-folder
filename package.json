@@ -1,7 +1,7 @@
 {
   "name": "@blacktoolbox/react-component-folder",
   "packageName": "react-component-folder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool component for foldering component.",
   "keywords": [
     "blacktoolbox",

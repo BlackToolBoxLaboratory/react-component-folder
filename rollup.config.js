@@ -20,7 +20,7 @@ if (!fs.existsSync('esm')) {
 }
 
 export default {
-  input  : path.resolve('module', 'index.js'),
+  input  : path.resolve('module', 'index.jsx'),
   output : [
     {
       format  : 'umd',
