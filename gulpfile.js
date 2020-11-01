@@ -1,7 +1,7 @@
 const gulp = require('gulp');
 const del = require('del');
 
-const path_backup = '../codebase/react-message';
+const path_backup = '../codebase/react-component-folder';
 
 gulp.task('backup', async function(done) {
   /* clean files */
